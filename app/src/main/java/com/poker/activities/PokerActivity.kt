@@ -44,7 +44,6 @@ class PokerActivity : AppCompatActivity() {
         } else {
             winnrTextView.text = this.getText(R.string.loser_text)
         }
-        Log.d("Winner", validation.toString())
     }
 
 }
