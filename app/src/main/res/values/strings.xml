@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Poker</string>
+    <string name="title">Poker Hand Test</string>
+    <string name="button_text">Test your luck</string>
+    <string name="winner_text">Winner Hand!!</string>
+    <string name="loser_text">Loser Hand :(</string>
+</resources>
